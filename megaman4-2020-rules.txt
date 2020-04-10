@@ -1,12 +1,12 @@
-Welcome to the Mega Man 9 Tournament! Please join us on Speedgaming for a fun time at the Wily Casino.
+Welcome to the Mega Man 4 Tournament! Please join us on Speedgaming for a fun time at the Wily Casino.
 
 Official Rules Follow
 
 Dates
-  Registration Ends January 25, 2020
-  Get PB’s in by February 1, 2020 prior to Seeding
-  Seeding to be completed by February 8, 2020
-  Group Phase runs between February 10th and March 8th
+  Registration Ends <TBD>
+  Get PB’s in by <TBD> prior to Seeding
+  Seeding to be completed by <TBD>
+  Group Phase <TBD if we even do groups>
 
 General
   Everyone is welcome to join the tournament.  There is no “Minimum PB Requirement”, and players of all skill levels are encouraged to participate
@@ -17,15 +17,15 @@ General
 
   The tournament will use Challonge for group and bracket management
 
-  Matches (best of 3) should be completed at a pace of at least one a week.  You may complete more than 1 match a week if you desire (this is actually encouraged).
+  Matches (best of <TBD>) should be completed at a pace of at least one a week.  You may complete more than 1 match a week if you desire (this is actually encouraged).
 
-    If you cannot complete at least 1 group stage match (or three races across matches) by the second week, you will be removed from the tournament. 
+    <TBD>If you cannot complete at least 1 group stage match (or three races across matches) by the second week, you will be removed from the tournament. 
 
     If you cannot complete a bracket stage match a week, you will be removed from the tournament. 
 
-    If you anticipate a problem meeting these scheduling requirements, you must let a tournament admin know as soon as possible.  If you think you will be very busy in February and March, it may be best to not enter the tournament.
+    If you anticipate a problem meeting these scheduling requirements, you must let a tournament admin know as soon as possible.  If you think you will be very busy in <TBD - June, July, August?>, it may be best to not enter the tournament.
 
-    Please remember the speedrunning community includes players from around the world. When scheduling races, your opponent may be from a timezone with a significant offset from your own. It is recommended that runners specify timezones, as well as AM/PM (or use 24 hour time), when scheduling races to avoid confusion (Eastern Standard Time, Central European Time, Japan Standard Time, etc)
+    Please remember the speedrunning community includes players from around the world. When scheduling races, your opponent may be from a timezone with a significant offset from your own. It is recommended that runners specify timezones, as well as AM/PM (or use 24 hour time), when scheduling races to avoid confusion (Eastern Daylight Time, Central European Summer Time, Japan Standard Time, etc)
 
   Entrants are to conduct themselves with integrity, show respect for their fellow competitors, and in general be good sports about things. No discriminatory or malicious conduct will be tolerated from tournament entrants.
 
@@ -36,19 +36,23 @@ General
 
 Versions and Timing
 
-  This tournament will use the timing rules found on the Mega Man Leaderboards for Mega Man 9, here http://megamanleaderboards.net/index.php?game=9&category=274
+  This tournament will use the timing rules found on the Mega Man Leaderboards for Mega Man 4, here http://megamanleaderboards.net/index.php?game=4&category=260
 
-    Timing begins on selecting your first robot master from the stage select. You should select your first robot master immediately after Racebot says “GO!”
+    Timing begins on pressing Start on the Title Screen. You should select "GAME START" immediately after Racebot says “GO!”
 
-    Timing ends upon COLLECTING THE CHIP after defeating the Wily Capsule. YOU MUST COLLECT THE CHIP.  Declare yourself ".done" immediately upon collecting the chip
+    For the purposes of the tournament, timing ends upon end end of the fanfare after defeating the Wily Capsule (JRTA). YOU MUST SURVIVE THE FIGHT TO SEE THE ENDING - DOUBLE KOS ARE NOT A SUCCESSFUL SPEEDRUN. You may declare yourself ".done" immediately upon defeating Wily, as is normal in Any% speedrun rules (though .undone if you take a death). The intent here is to minimize debate about double KOs. Please keep in mind the tournament moderators will evaluate close races, so it is not necesary to rush to .done when avoiding the final attack from the Capsule.
 
-  Acceptable versions of the game include Wii, PS3, XBox360, and Legacy Collection 2 (Steam, Switch, PS4, XBone).
+  Acceptable versions of the game include the NES/Famicon releases, the Wii Vitual Console, and the Wii U Virtual Console. Rules for emulators and allowed emulators is on the Mega Man Leaderboards.
+  
+  The Aniversary Collection (Game Cube, Original XBox, PS2) version is not allowed do to lag and fast weapon swapping concerns. The Legacy Collection version (Steam, XBox1, PS4, Switch) is not allowed due to Turbo concerns.
 
-  The category being raced is Any%, using Mega Man. Proto Man is not allowed for this tournament.
+   If you have any questions about your game version or emulator rules, consult an admin immediately. Anything not explicitely allowed by these rules is not allowed.
+  
+  The category being raced is Any%. In the unlikely event major skips are discovered during the tournament, this category may be updated.
 
-  No save/load state features are allowed. Checkpoint saves are not allowed.
+  No save/load state features are allowed, including the Wii U Virtual Console's features.
 
-    The save/load file feature built into the original game by Capcom may be used if desired
+    You must start the race from game start. You may only use a Password you have seen during the race
 
   No autofire/turbo features and/or controllers are allowed
 
@@ -73,7 +77,7 @@ Tournament admins will be the final arbiter of race results. Close results will 
 
     That said, a single SRL race may have 2 pairs of entrants to restream 2 matches at once.
 
-Match Rules
+Match Rules <TBD>
 
   Matches between entrants will be best of 3 races until the finals of the bracket stage
 
@@ -126,6 +130,6 @@ Several streamers use a small mostly transparent “watermark” image in the co
 
   Nobody is required to interview if they are not comfortable doing so
 
-  It is recommended that interviews not be held between consecutive races in the same broadcast window, so the following races can begin sooner.
+  <TBD>It is recommended that interviews not be held between consecutive races in the same broadcast window, so the following races can begin sooner.
 
   Interviews, like commentary, will be done in Discord.
