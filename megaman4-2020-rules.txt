@@ -1,0 +1,131 @@
+Welcome to the Mega Man 9 Tournament! Please join us on Speedgaming for a fun time at the Wily Casino.
+
+Official Rules Follow
+
+Dates
+  Registration Ends January 25, 2020
+  Get PB’s in by February 1, 2020 prior to Seeding
+  Seeding to be completed by February 8, 2020
+  Group Phase runs between February 10th and March 8th
+
+General
+  Everyone is welcome to join the tournament.  There is no “Minimum PB Requirement”, and players of all skill levels are encouraged to participate
+
+  All tournament entrants must join the tournament discord.  This is for ease of scheduling races and making announcements.  
+
+  If you are not in the discord by the start of the tournament, you will be removed from the tournament.
+
+  The tournament will use Challonge for group and bracket management
+
+  Matches (best of 3) should be completed at a pace of at least one a week.  You may complete more than 1 match a week if you desire (this is actually encouraged).
+
+    If you cannot complete at least 1 group stage match (or three races across matches) by the second week, you will be removed from the tournament. 
+
+    If you cannot complete a bracket stage match a week, you will be removed from the tournament. 
+
+    If you anticipate a problem meeting these scheduling requirements, you must let a tournament admin know as soon as possible.  If you think you will be very busy in February and March, it may be best to not enter the tournament.
+
+    Please remember the speedrunning community includes players from around the world. When scheduling races, your opponent may be from a timezone with a significant offset from your own. It is recommended that runners specify timezones, as well as AM/PM (or use 24 hour time), when scheduling races to avoid confusion (Eastern Standard Time, Central European Time, Japan Standard Time, etc)
+
+  Entrants are to conduct themselves with integrity, show respect for their fellow competitors, and in general be good sports about things. No discriminatory or malicious conduct will be tolerated from tournament entrants.
+
+    Entrants that feel uncomfortable with a situation are encouraged to contact the tournament admins to help resolve the situation.
+
+  Tournament Admins are the final arbiters of these rules
+
+
+Versions and Timing
+
+  This tournament will use the timing rules found on the Mega Man Leaderboards for Mega Man 9, here http://megamanleaderboards.net/index.php?game=9&category=274
+
+    Timing begins on selecting your first robot master from the stage select. You should select your first robot master immediately after Racebot says “GO!”
+
+    Timing ends upon COLLECTING THE CHIP after defeating the Wily Capsule. YOU MUST COLLECT THE CHIP.  Declare yourself ".done" immediately upon collecting the chip
+
+  Acceptable versions of the game include Wii, PS3, XBox360, and Legacy Collection 2 (Steam, Switch, PS4, XBone).
+
+  The category being raced is Any%, using Mega Man. Proto Man is not allowed for this tournament.
+
+  No save/load state features are allowed. Checkpoint saves are not allowed.
+
+    The save/load file feature built into the original game by Capcom may be used if desired
+
+  No autofire/turbo features and/or controllers are allowed
+
+  Anyone found to be cheating will be summarily removed from the tournament
+
+Race and Tournament Format
+
+  All races will use Speedrunslive. If for some reason you cannot race on speedrunslive, or speedrunslive is unavailable for a race, inform a tournament admin as soon as possible
+
+    PLEASE ensure you are able to log in to Speedrunslive IRC as soon as possible, preferably immediately after joining the tournament and not the first week of races, so admins do not need to scramble the day of your race to get you set up
+Tournament admins will be the final arbiter of race results. Close results will be reviewed and may differ from SRL placing.
+
+  All races must be streamed. If you cannot stream your gameplay, you may not enter the tournament.
+
+  The video of your stream must be saved and accessible on your channel.
+
+  Please locally record your race streams. This will be referenced if your feed dies during the race from something such as a short internet outage, and it becomes necessary to verify race results.
+
+  No race shall count as a tournament race unless it has been scheduled properly in Speedgaming’s race scheduler and acknowledged by tournament admins and both entrants.  If for some reason the scheduler is unavailable, ensure a Tournament Admin knows about the race and announces it in the #races channel
+
+  For non-tie breaking races, races will only count as a race between pairs of entrants. A race cannot count as a single entrant’s match against two or more opponents at the same time.
+
+    That said, a single SRL race may have 2 pairs of entrants to restream 2 matches at once.
+
+Match Rules
+
+  Matches between entrants will be best of 3 races until the finals of the bracket stage
+
+    Close matches will be evaluated by administration to determine a winner.  In a result of a tie,in group stages, ties will be allowed in the best of 3. In this case, the player with the most wins will be victorious in the match. If Wins-Losses-Ties are 1-1-1 or 0-0-3, the match will be considered a tie overall
+
+    In bracket stages, ties in each race will need to be re-raced
+
+    Bracket finals will be best of 5, and otherwise follow the same rules
+
+    Matches are best of 3, but not all 3 races need to happen back-to-back on the same day.  HOWEVER you are your opponents are responsible for finishing your matches by the appointed time.
+
+  If you are having difficulty contacting your opponent, please contact a tournament admin AS SOON AS POSSIBLE.
+
+  This tournament will use a group stage, followed by a bracket stage.
+
+    Groups will be 4 entrants each.  If there are not enough entrants to be a multiple of 4, some groups may only have 3 entrants
+
+    Groups matches will be round-robin (everyone has 1 best of 3 match against everyone else in the group)
+
+    In groups, a match win is worth 2 points, a match tie is worth 1 point
+
+    The two entrants with the most points in a group will advance
+
+      Ties in the standings will be determined by head-to-head (2 players only), then most individual races won, then best average time in tournament races. If they are still tied, there will be a single race between tied entrants
+
+  After determining who advances from groups, entrants will be re-seeded into the bracket according to their average tournament race time
+
+    If the bracket is not an even power of 2 entrants (2, 4, 8, 16, 32, etc), byes will be given to the players with the higher seeds.
+
+  The bracket stage will continue to use best of 3 matches (until the final, which will be best of 5), and be single elimination (lose 1 match and you are out of the tournament)
+
+Restreams
+
+  We will try to restream as many races as possible, but not all races can be restreamed. Please schedule your races as far in advance as possible to give the admin team a chance to schedule time on SpeedGaming channels, AND to find a commentary team. Be aware that not all races can be restreamed, and waiting to find a time when a race can be restreamed is not an excuse to be late scheduling races.
+
+  Races that are restreamed will be streamed on the Speedgaming family of networks. Please observe speedgaming race restream conduct, and ensure no alerts appear on screen, and minimal layout elements intrude on the game feed.  Definitely ensure nothing considered vulgar, lewd, or pornographic appears on stream, as Speedgaming is family friendly. 
+
+  If you want your audio feed to be used, keep in mind you must have game sound only streamed (no other music), and you must not use a microphone during the race. Remember to mute or disable your follower, subscriber, bits, and any other alerts
+Several streamers use a small mostly transparent “watermark” image in the corner of their game feeds to prevent nefarious internet users from claiming the streamer’s game play as their own. As long as it is discreet, this is allowed (though see the above about family friendly)
+
+  While the goal is for the entirety of each entrants run to be shown on a given restream, runs that go over an hour without a winner will likely be abandoned by the restream for scheduling constraints.
+
+  Anyone interested in commentating a race should make their interest known to Tournament Admins in discord.
+
+  You do not need to be a tournament entrant to commentate
+
+  Commentators will be held to a code of conduct, and are expected to be polite to stream viewers and runners. Speaking to a run going poorly is okay, but insulting a runner’s skill is not.
+
+  If time allows, there will often be the opportunity to have an interview following a race
+
+  Nobody is required to interview if they are not comfortable doing so
+
+  It is recommended that interviews not be held between consecutive races in the same broadcast window, so the following races can begin sooner.
+
+  Interviews, like commentary, will be done in Discord.
