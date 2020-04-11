@@ -17,11 +17,11 @@ General
 
   The tournament will use Challonge for group and bracket management
 
-  Matches (best of <TBD>) should be completed at a pace of at least one a week.  You may complete more than 1 match a week if you desire (this is actually encouraged).
+  Matches should be completed at a pace of at least one a week.  You may complete more than 1 match a week if you desire (this is actually encouraged).
 
-    <TBD>If you cannot complete at least 1 group stage match (or three races across matches) by the second week, you will be removed from the tournament. 
-
-    If you cannot complete a bracket stage match a week, you will be removed from the tournament. 
+    If you cannot complete a Winner's bracket stage match a week, you will be removed from the tournament. If you have a busy weekend, please schedule your race either before the break, or immediately on Monday.
+    
+    For the Loser's Bracket, in order to keep pace with the winner's bracket, please plan to complete 2 matches a week.
 
     If you anticipate a problem meeting these scheduling requirements, you must let a tournament admin know as soon as possible.  If you think you will be very busy in <TBD - June, July, August?>, it may be best to not enter the tournament.
 
@@ -33,10 +33,11 @@ General
 
   Tournament Admins are the final arbiters of these rules
 
+  Several entrants have pointed to https://www.deepl.com/translator as a translation tool for the rules. This has been used to translate the rules into Spanish and Japanese. A best effort will be made to ensure translated rules are accurate and up to date. Most importantly, if anyone would like an additional translation of the rules, just ask the tournament admins.
 
 Versions and Timing
 
-  This tournament will use the timing rules found on the Mega Man Leaderboards for Mega Man 4, here http://megamanleaderboards.net/index.php?game=4&category=260
+  This tournament will use the timing rules found on the Mega Man Leaderboards for Mega Man 4, here http://megamanleaderboards.net/index.php?game=4&category=260 . Please remember you must survive the Wily Capsule fight for a run to be valid.
 
     Timing begins on pressing Start on the Title Screen. You should select "GAME START" immediately after Racebot says “GO!”
 
@@ -44,7 +45,7 @@ Versions and Timing
 
   Acceptable versions of the game include the NES/Famicon releases, the Wii Vitual Console, and the Wii U Virtual Console. Rules for emulators and allowed emulators is on the Mega Man Leaderboards.
   
-  The Aniversary Collection (Game Cube, Original XBox, PS2) version is not allowed do to lag and fast weapon swapping concerns. The Legacy Collection version (Steam, XBox1, PS4, Switch) is not allowed due to Turbo concerns.
+  The Aniversary Collection (Game Cube, Original XBox, PS2) version is not allowed due to lag and fast weapon swapping concerns. The Legacy Collection version (Steam, XBox1, PS4, Switch) is not allowed due to Turbo concerns.
 
    If you have any questions about your game version or emulator rules, consult an admin immediately. Anything not explicitely allowed by these rules is not allowed.
   
@@ -79,35 +80,22 @@ Tournament admins will be the final arbiter of race results. Close results will 
 
 Match Rules <TBD>
 
-  Matches between entrants will be best of 3 races until the finals of the bracket stage
+  Matches between entrants will a single race (be best of 1), until the round of 4 in each bracket
 
-    Close matches will be evaluated by administration to determine a winner.  In a result of a tie,in group stages, ties will be allowed in the best of 3. In this case, the player with the most wins will be victorious in the match. If Wins-Losses-Ties are 1-1-1 or 0-0-3, the match will be considered a tie overall
+    Close matches will be evaluated by administration to determine a winner.  In a result of a tie, the race will need to be re-raced. This means in "best of 3" situations, it is the first to 2 wins, and ties are essentially not used to determine a match winner.
+    
+    As another reminder, remember you must survive the Wily capsule fight to complete your race. Do not feel rushed to declare yourelf finished, type .done, etc, at the risk of taking a death. Tournament admins will review close results and see when one player needed to push enter to .done and actually finished before their opponent (perhaps because of livesplitting .done, autosplitters, JRTA splits, etc)
 
-    In bracket stages, ties in each race will need to be re-raced
-
-    Bracket finals will be best of 5, and otherwise follow the same rules
-
-    Matches are best of 3, but not all 3 races need to happen back-to-back on the same day.  HOWEVER you are your opponents are responsible for finishing your matches by the appointed time.
+    When each bracket is down to 4 participants, to include both loser's bracket rounds of 4, the match will be best of 3 instead of a single race. Not all 3 races need to happen back-to-back on the same day, HOWEVER you and your opponent are responsible for finishing your matches by the appointed time.
 
   If you are having difficulty contacting your opponent, please contact a tournament admin AS SOON AS POSSIBLE.
 
-  This tournament will use a group stage, followed by a bracket stage.
+  This tournament will be a double elimination bracket. There is no swiss or group stage.
 
-    Groups will be 4 entrants each.  If there are not enough entrants to be a multiple of 4, some groups may only have 3 entrants
+   Etrants will be seeded into the bracket according to their PB on the Mega Man 4 Any% leaderboards, http://megamanleaderboards.net/index.php?game=4&category=260
 
-    Groups matches will be round-robin (everyone has 1 best of 3 match against everyone else in the group)
+    If the bracket is not an even power of 2 entrants (2, 4, 8, 16, 32, etc), byes will be given to the players with the better seeds.
 
-    In groups, a match win is worth 2 points, a match tie is worth 1 point
-
-    The two entrants with the most points in a group will advance
-
-      Ties in the standings will be determined by head-to-head (2 players only), then most individual races won, then best average time in tournament races. If they are still tied, there will be a single race between tied entrants
-
-  After determining who advances from groups, entrants will be re-seeded into the bracket according to their average tournament race time
-
-    If the bracket is not an even power of 2 entrants (2, 4, 8, 16, 32, etc), byes will be given to the players with the higher seeds.
-
-  The bracket stage will continue to use best of 3 matches (until the final, which will be best of 5), and be single elimination (lose 1 match and you are out of the tournament)
 
 Restreams
 
@@ -130,6 +118,6 @@ Several streamers use a small mostly transparent “watermark” image in the co
 
   Nobody is required to interview if they are not comfortable doing so
 
-  <TBD>It is recommended that interviews not be held between consecutive races in the same broadcast window, so the following races can begin sooner.
+  It is recommended that interviews not be held between consecutive races in the same broadcast window, so the following races can begin sooner.
 
   Interviews, like commentary, will be done in Discord.
